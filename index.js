@@ -18,19 +18,17 @@ const MESSAGE = process.env.MESSAGE ||  `
 *QR HAS BEEN SCANNED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
-║❒https://github.com/Brashokish/Legacy-Md 
+║❒https://github.com/Colince-L/Lupin-Md 
 
- _Join *LEGACY-MD* Channel for Updates_
-║❒https://whatsapp.com/channel/0029VaUJjME4Y9lf2giQJC3t
+ _Join *LUPIN-MD* Channel for Updates_
 
 *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-║❒https://chat.whatsapp.com/ETxO5WC60vO36yvTQ4eFMh
+║❒https://chat.whatsapp.com/LqUeF4SKo1gJtkkmbKfUR2
 
 *FOLLOW THE DEVELOPER* 🪄 
-║❒ https://instagram.com/Brashokish 
 
 
-       *𝐋𝐄𝐆𝐀𝐂𝐘-𝐌𝐃*
+       *𝐋𝐔𝐏𝐈𝐍-𝐌𝐃*
 `
 
 
