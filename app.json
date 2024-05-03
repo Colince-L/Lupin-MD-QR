@@ -1,0 +1,22 @@
+{
+    "name": "LEGACY-MD-QR",
+    "description": "LEGACY-MD, A simple WhatsApp user bot Created by Brasho Kish",
+    "logo": "https://telegra.ph/file/61cc2fe7866ef604d4506.jpg",
+    "repository": "https://github.com/Brashokish/LEGACY-MD-QR",
+    "keywords": ["whatsappbot", "Brasho Kish", "LEGACY MD", "BRASHO KISH 𝙈𝘿", "LEGACYMdWhatsaooBot", "LEGACYMDWaBot","KISH","KISH BRASHO Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "Thanks for Choosing LEGACY-MD" ,
+        "required": false 
+      }
+    }   
+
+}
